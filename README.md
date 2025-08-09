@@ -10,8 +10,8 @@ A curated collection of experimental AI prototypes exploring NLP, computer visio
 
 ## Prototypes:
 
-Prototipos incluidos
-| Prototype | Description| 
+| Prototype | Description|
+|-----------|------------|
 | NPL Sentiment Analyzer | NPL sentiment analyzer based on FLASK and BERT| 
 
 
